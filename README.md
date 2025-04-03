@@ -2,7 +2,7 @@
   <h3 align="center">I'm KL Vitesh Reddy, an undergrad at IIIT Sri City pursuing my BTech in CSE. I'm passionate about full-stack development and competitive programming 🚀</h3>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=vitesh-reddy&label=Profile%20views&color=0e75b6&style=flat" alt="Vitesh_Reddy" /> </p>
 
-  - 🌟 I’m currently involved in building **Full-Stack Web Apps**, exploring real-time networking, **Backend Optimization**, and **DSA**.
+  - 🌟 I’m currently involved in building **Full-Stack Web Apps**, **Backend Optimization**, and **DSA**.
 
   - ⚡ You could find my DSA progress here [https://leetcode.com/u/Vitesh_Reddy_/](https://leetcode.com/u/Vitesh_Reddy_/)
 
