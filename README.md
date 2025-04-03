@@ -1,4 +1,4 @@
-<div style="align-text: center;">
+<div style="text-align: center;">
 <h1>Hello Everyone, I am Vitesh Reddy</h1>
 <p>I'm KL Vitesh Reddy, an undergrad at IIIT Sri City pursuing my BTech in CSE. I'm passionate about full-stack development and competitive programming, constantly exploring new technologies. 🚀</p> </div>
 <h2>🚀 Languages and Tools I Use</h2>
