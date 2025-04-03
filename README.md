@@ -1,12 +1,12 @@
   <h1 align="center">Hello everyone, I'm Vitesh Reddy</b></h1>
-  <h3 align="center">I'm KL Vitesh Reddy, an undergrad at IIIT Sri City pursuing my BTech in CSE. I'm passionate about full-stack development and competitive programming, constantly exploring new technologies. 🚀</h3>
+  <h3 align="center">I'm KL Vitesh Reddy, an undergrad at IIIT Sri City pursuing my BTech in CSE. I'm passionate about full-stack development and competitive programming 🚀</h3>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=vitesh-reddy&label=Profile%20views&color=0e75b6&style=flat" alt="Vitesh_Reddy" /> </p>
 
-  - 🚀 I’m currently involved in building **full-stack web applications**, exploring real-time networking, **backend optimization**, and **DSA**.
+  - 🌟 I’m currently involved in building **full-stack web applications**, exploring real-time networking, **backend optimization**, and **DSA**.
 
-  - 🔍 If you're curious about Full Stack Developemnt, Competitive  Programming and Data Structures, feel free to strike up a conversation with me!
-  
-  - 📝 Check out my LeetCode profile [https://leetcode.com/u/Vitesh_Reddy_/](https://leetcode.com/u/Vitesh_Reddy_/)
+  - ⚡ You could find my DSA progress here [https://leetcode.com/u/Vitesh_Reddy_/](https://leetcode.com/u/Vitesh_Reddy_/)
+
+  - 🔍 If you're curious about Full Stack Developement and Competitive Programming feel free to strike up a conversation with me!
 
   - 📝 Check out my linkedIn profile [www.linkedin.com/in/vitesh-reddy-k-701676282](www.linkedin.com/in/vitesh-reddy-k-701676282)
 
@@ -47,6 +47,6 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vitesh-reddy&show_icons=true&locale=en&layout=compact" alt="vitesh-reddy" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=vitesh-reddy&show_icons=true&locale=en" alt="vitesh-reddy" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=vitesh-reddy&show_icons=true&locale=en" alt="vitesh-reddy" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vitesh-reddy&" alt="vitesh-reddy" /></p>
 
