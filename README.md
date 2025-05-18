@@ -4,11 +4,11 @@
 
   - 🌟 I’m currently involved in building **Full-Stack Web Apps**, **Backend Optimization**, and **DSA**.
 
-  - ⚡ You could find my DSA progress here [https://leetcode.com/u/Vitesh_Reddy_/](https://leetcode.com/u/Vitesh_Reddy_/)
+  - ⚡ You could find my DSA progress here [https://leetcode.com/u/Vitesh_Reddy_](https://leetcode.com/u/Vitesh_Reddy_)
 
   - 🔍 If you're curious about Full Stack Dev and Competitive Programming feel free to strike up a conversation with me!
 
-  - 📝 Check out my linkedIn profile [www.linkedin.com/in/vitesh-reddy-k-701676282](www.linkedin.com/in/vitesh-reddy-k-701676282)
+  - 📝 Check out my linkedIn profile [www.linkedin.com/in/vitesh-reddy](https://www.linkedin.com/in/vitesh-reddy)
 
   
 - 📩 Reach me out via k.l.viteshreddy@gmail.com
@@ -34,7 +34,7 @@
  
 ### **Web Development**
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)  ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) 
+![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)  ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) 
 
 ### **Frontend Frameworks & Libraries**
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)  ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
