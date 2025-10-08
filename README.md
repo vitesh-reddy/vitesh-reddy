@@ -6,6 +6,7 @@
   <p align="left" style="padding-left: 10px;">&nbsp;&nbsp;&nbsp; <img src="https://komarev.com/ghpvc/?username=vitesh-reddy&label=Profile%20views&color=0e75b6&style=flat" alt="Vitesh_Reddy" /> </p>
 
   - 🌟 I’m currently involved in building **Full-Stack Web Apps**, **Backend Optimization**, and **DSA**.
+  - ⚡ You could find my DSA progress here [https://leetcode.com/u/Vitesh_Reddy_/](https://leetcode.com/u/Vitesh_Reddy_/)
 
   - 🔍 If you're curious about Full Stack Dev and Competitive Programming feel free to strike up a conversation with me!
 
