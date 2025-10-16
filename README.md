@@ -4,8 +4,6 @@
 
   - 🌟 I’m currently involved in building **Full-Stack Web Apps**, **Backend Optimization**, and **DSA**.
 
-  - ⚡ You could find my DSA progress here [https://leetcode.com/u/Vitesh_Reddy_](https://leetcode.com/u/Vitesh_Reddy_)
-
   - 🔍 If you're curious about Full Stack Dev and Competitive Programming feel free to strike up a conversation with me!
 
   - 📝 Check out my linkedIn profile [www.linkedin.com/in/vitesh-reddy](https://www.linkedin.com/in/vitesh-reddy)
