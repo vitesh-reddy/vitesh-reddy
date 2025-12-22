@@ -1,9 +1,9 @@
   <h1 align="center">Hello👋, I'm Vitesh Reddy</b></h1>
   <h3 align="center">
-    B.Tech CSE undergraduate at IIIT Sri City · Backend-Oriented Full-Stack Developer · DSA & Competitive Programming
+     &nbsp; B.Tech CSE undergraduate at IIIT Sri City&nbsp; | &nbsp;Backend-Oriented Full-Stack Developer <br> DSA & Competitive Programmer
   </h3>
 
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=vitesh-reddy&label=Profile%20views&color=0e75b6&style=flat" alt="Vitesh_Reddy" /> </p>
+  <p align="left" style="padding-left: 10px;">&nbsp;&nbsp;&nbsp; <img src="https://komarev.com/ghpvc/?username=vitesh-reddy&label=Profile%20views&color=0e75b6&style=flat" alt="Vitesh_Reddy" /> </p>
 
   - 🌟 I’m currently involved in building **Full-Stack Web Apps**, **Backend Optimization**, and **DSA**.
 
