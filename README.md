@@ -13,7 +13,7 @@
   - 📝 Check out my linkedIn profile [www.linkedin.com/in/vitesh-reddy](https://www.linkedin.com/in/vitesh-reddy)
 
   
-  - 📩 Reach me out via k.l.viteshreddy@gmail.com
+  - 📩 Reach me out via vitesh.edu@gmail.com
 
 &nbsp;
 
